@@ -24,7 +24,7 @@ class LoginPageLocators:
     LOGIN_VALIDATION_CODE = Locator(By.XPATH, "//input[@name='verificationCode']")
     # LOGIN_BUTTON = Locator(By.XPATH, "//button[contains(text(), 'login-button')]")
     LOGIN_BUTTON = Locator(By.XPATH, "//span[contains(text(), '登录')]")
-    LOGIN_RESULT = Locator(By.XPATH, "//div[contains(text(), '')]")
+    LOGIN_RESULT = Locator(By.XPATH, "//div[contains(text(), '您已进入培训系统，所有的业务操作仅供培训及模拟操作使用，不会生效')]")
 
 
     
