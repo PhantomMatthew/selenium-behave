@@ -55,3 +55,5 @@ Contains files with test methods which are bound to steps in the `.feature` file
 #### pages
 
 Contains all page objects, as well as locators for finding elements on the webpages.
+
+#### comments
